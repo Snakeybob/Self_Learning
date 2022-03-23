@@ -109,3 +109,20 @@
 
 ### Week 1
 #### Group sheets for universal changes
+- Hold Shift and click sheets
+- Calculations across sheets of the same format using functions
+
+#### Arrange all
+- View all workbooks
+
+#### Link workbooks
+- Useful when all workbooks have the same format
+- Changing sheet order can mess up the link formula
+- Break link would clear all formula and cell references across workbooks
+- Change source to repair link when a workbook location has been changed
+
+#### Consolidate by Position
+- Basically a script to run to order to do calculation across workbooks without linking workbooks
+
+#### Consolidate by Reference
+- Use to consolidate data when rows or columns are labelled but not in the same order across workooks
