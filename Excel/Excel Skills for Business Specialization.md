@@ -2,7 +2,9 @@
 
 ## Course 1 - Excel Skills for Business: Essentials
 
-### Week 1<br /> 
+### Week 1
+<br />
+<br /> 
 #### New File/ New Workbook
 - CTRL+N | CMD+N
 
