@@ -15,8 +15,11 @@ CTRL+W | CMD+W
 Enter a new line of Text
 ALT + Enter
 
-CTRL+Home takes you to the first cell that contains data in the top-left corner of the sheet
-CTRL+End goes to the last cell in the bottom-right
+CTRL+Home 
+Takes you to the first cell that contains data in the top-left corner of the sheet
+
+CTRL+End 
+Goes to the last cell in the bottom-right
 
 Quick Access Toolbar
 Can be customised by adding preferred features
@@ -36,7 +39,7 @@ Styles and Themes
 For consistent format
 
 Format Painter
-You can double-click on the Format Painter and it will remain active as long as you need it. When you are done, simply press Escape. This is very cool - switch over to Excel and try it out now!
+You can double-click on the Format Painter and it will remain active as long as you need it. When you are done, simply press Escape.
 
 
 ### Week 4
@@ -79,10 +82,7 @@ Page Breaks
 Adding/adjusting page breaks manually (solid break line) and automatically (dotted break line) to your own need
 
 Print Titles
-Select customised print area 
-Rows and columns to repeat
-Page order
-Gridline display
+Select customised print area , Rows and columns to repeat, Page order, Gridline display
 
 Headers and Footers
 To include page number, total page number, date & time, file name, worksheet name, file path, picture
