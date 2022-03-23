@@ -1,50 +1,101 @@
-# My journey in learning Excel
+# What I learned from this excel specialisation
 
-## Excel Skills for Business: Essentials
+## Course 1 - Excel Skills for Business: Essentials
 
 ### Week 1
 New File/ New Workbook
-
-To create a new workbook or new file, you do not need to go into any menu's. You can simply press: CTRL+N | CMD+N
+CTRL+N | CMD+N
 
 Open file / Open Workbook
-
-To open the dialogue box and select an existing file (workbook) you can use the shortcut: CTRL+O | CMD+O
+CTRL+O | CMD+O
 
 Close file / Close Workbook
+CTRL+W | CMD+W
 
-To close your current Workbook, you can click on the 'x' located at the top right (Windows) or top left (Mac), But as shortcut keys are sometimes quicker, you can press: CTRL+W | CMD+W
+Enter a new line of Text
+ALT + Enter
+
+CTRL+Home takes you to the first cell that contains data in the top-left corner of the sheet
+CTRL+End goes to the last cell in the bottom-right
+
+Quick Access Toolbar
+Can be customised by adding preferred features
  
- 
-### Week 2 - Syntax, Formulas, Functions, Cell References, Cross-sheet Calculations
-- Explain the syntax of basic formulas and functions
-- Use formulas and functions to perform simple calculations
-- Describe the difference between relative and absolute cell references
+### Week 2 
+F4 (fn + F4 / CMD + T)  
+Cycle through all 4 types of cell references. (Absolute, Mixed x2, Relative)
+
+CTRL + PgUp (CMD + PgUp) 
+Go to the previous sheet.
+
+CTRL + PgDn (CMD + PgDn)  
+Go to the next sheet.
+
+### Week 3
+Styles and Themes
+For consistent format
+
+Format Painter
+You can double-click on the Format Painter and it will remain active as long as you need it. When you are done, simply press Escape. This is very cool - switch over to Excel and try it out now!
 
 
-### Week 3 - Formatting, Borders, Alignment Tools, Format Painter, Number Formats, Styles & Themes
-- Give examples of key formatting tools and their uses in Excel
-- Modify spreadsheets with Excel styles and themes
-- Explain the use of number formatting in Excel
-- Format a raw data set using Excel formatting tools
+### Week 4
+Filtering
+Filter number with different rules; Filter by colour; Multiple conditions
+
+Sorting
+Sort by multiple rules in order of your choice
+
+Conditional Formatting
+A variety of rules and conditions to choose from
+
+CTRL + 0 (CMD + 0)
+Hide the column containing the selected cell.
+
+CTRL + 9 (CMD + 9)
+Hide the row containing the selected cell.
+
+CTRL + SHIFT + 0 (CMD + SHIFT + 0)
+Unhide the column containing the selected cell. (Select cells surrounding hidden column)
+
+CTRL + SHIFT + 9 (CMD + SHIFT + 9)
+Unhide the row containing the selected cell. (Select cells surrounding hidden row)
+
+CTRL + SHIFT + L (CMD + SHIFT + F) 
+Add or remove a filter
 
 
-### Week 4 - Managing Rows & Columns, Find & Replace, Filtering, Sorting, Conditional Formatting
-- Manage rows, columns and worksheets
-- Identify, retrieve and change data in spreadsheets
-- Explain how to operate Conditional Formatting in Excel
-- Use the conditional formatting tool to highlight specific data
+### Week 5
+Print Preview and to PDF
+For previewing the actual print virtually
+
+Page Layout View
+For previewing and adjusting page layout
+
+Orientation, Margins and Scale Setting
+To adjust the way data fitting in a page
+
+Page Breaks
+Adding/adjusting page breaks manually (solid break line) and automatically (dotted break line) to your own need
+
+Print Titles
+Select customised print area 
+Rows and columns to repeat
+Page order
+Gridline display
+
+Headers and Footers
+To include page number, total page number, date & time, file name, worksheet name, file path, picture
+
+CTRL + P | CMD + P
+Open Print dialogue
+
+Shift + F8
+For selecting non adjacent cells
 
 
-### Week 5 - Print Preview, Orientation, Margins & Scale, Page Breaks, Print Titles, Headers & Footers
-- Identify the key printing tools and options in Excel
-- Optimise a spreadsheet for printing
-- Create a spreadsheet for printing with repeating elements
+### Week 6 
+F11 (F11*)
+Insert new Chart sheet from selection.
 
-
-### Week 6 - Basic Chart Types, Move and Resize Charts, Change Chart Style and Type, Modify Chart Elements
-- Describe basic chart types in Excel
-- Define key terminology of charts in Excel
-- Produce basic charts in Excel
-- Modify charts in Excel
-
+Change chart style & theme to be consistent or for better presentation
