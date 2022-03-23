@@ -6,27 +6,21 @@
 
 #### New File/ New Workbook
 - CTRL+N | CMD+N
-<br />
 
 #### Open file / Open Workbook
 - CTRL+O | CMD+O
-<br />
 
 #### Close file / Close Workbook
 - CTRL+W | CMD+W
-<br />
 
 #### Enter a new line of Text
 - ALT + Enter
-<br />
 
 #### Takes you to the first cell that contains data in the top-left corner of the sheet
 - CTRL+Home 
-<br />
 
 #### Goes to the last cell in the bottom-right
 - CTRL+End
-<br />
 
 #### Quick Access Toolbar
 - Can be customised by adding preferred features
