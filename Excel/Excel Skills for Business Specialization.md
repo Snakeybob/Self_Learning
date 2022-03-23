@@ -4,7 +4,6 @@
 
 ### Week 1
 <br />
-<br /> 
 #### New File/ New Workbook
 - CTRL+N | CMD+N
 
@@ -25,7 +24,8 @@
 
 #### Quick Access Toolbar
 - Can be customised by adding preferred features
- 
+<br /> 
+
 ### Week 2 
 #### Cycle through all 4 types of cell references. (Absolute, Mixed x2, Relative)
 - F4 (fn + F4 / CMD + T)  
@@ -35,6 +35,7 @@
 
 #### Go to the next sheet.
 - CTRL + PgDn (CMD + PgDn)  
+<br />
 
 ### Week 3
 #### Styles and Themes
@@ -42,7 +43,7 @@
 
 #### Format Painter
 - You can double-click on the Format Painter and it will remain active as long as you need it. When you are done, simply press Escape.
-
+<br />
 
 ### Week 4
 #### Filtering
@@ -68,6 +69,7 @@
 
 #### Add or remove a filter
 - CTRL + SHIFT + L (CMD + SHIFT + F) 
+<br />
 
 ### Week 5
 Print Preview and to PDF
@@ -93,7 +95,7 @@ CTRL + P | CMD + P
 
 Shift + F8
 - For selecting non adjacent cells
-
+<br />
 
 ### Week 6 
 F11 (F11*)
