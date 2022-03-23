@@ -1,7 +1,7 @@
 # What I learned from this excel specialisation
 
-## Course 1 - Excel Skills for Business: Essentials--------
-
+## Course 1 - Excel Skills for Business: Essentials
+---------
 ### Week 1
 
 #### New File/ New Workbook
