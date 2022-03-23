@@ -72,33 +72,33 @@
 <br />
 
 ### Week 5
-Print Preview and to PDF
+#### Print Preview and to PDF
 - For previewing the actual print virtually
 
-Page Layout View
+#### Page Layout View
 - For previewing and adjusting page layout
 
-Orientation, Margins and Scale Setting
+#### Orientation, Margins and Scale Setting
 - To adjust the way data fitting in a page
 
-Page Breaks
+#### Page Breaks
 - Adding/adjusting page breaks manually (solid break line) and automatically (dotted break line) to your own need
 
-Print Titles
+#### Print Titles
 - Select customised print area , Rows and columns to repeat, Page order, Gridline display
 
-Headers and Footers
+#### Headers and Footers
 - To include page number, total page number, date & time, file name, worksheet name, file path, picture
 
-CTRL + P | CMD + P
-- Open Print dialogue
+#### Open Print dialogue
+- CTRL + P | CMD + P
 
-Shift + F8
-- For selecting non adjacent cells
+#### For selecting non adjacent cells
+- Shift + F8
 <br />
 
 ### Week 6 
-F11 (F11*)
-- Insert new Chart sheet from selection.
+#### Insert new Chart sheet from selection.
+- F11 (F11*)
 
-Change chart style & theme to be consistent or for better presentation
+#### Change chart style & theme to be consistent or for better presentation
