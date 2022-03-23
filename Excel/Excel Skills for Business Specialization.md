@@ -3,7 +3,7 @@
 ## Course 1 - Excel Skills for Business: Essentials
 
 ### Week 1
-/n
+\n
 #### New File/ New Workbook
 - CTRL+N | CMD+N
 
