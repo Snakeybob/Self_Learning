@@ -4,6 +4,7 @@
 
 ### Week 1
 <br />
+
 #### New File/ New Workbook
 - CTRL+N | CMD+N
 
