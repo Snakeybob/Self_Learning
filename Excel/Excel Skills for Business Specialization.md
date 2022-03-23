@@ -1,7 +1,7 @@
 # What I learned from this excel specialisation
 
 ## Course 1 - Excel Skills for Business: Essentials
----------
+
 ### Week 1
 
 #### New File/ New Workbook
@@ -102,3 +102,10 @@
 - F11 (F11*)
 
 #### Change chart style & theme to be consistent or for better presentation
+-----------
+
+
+## Course 2 - Excel Skills for Business: Intermediate I
+
+### Week 1
+#### Group sheets for universal changes
