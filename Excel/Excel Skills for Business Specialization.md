@@ -129,3 +129,7 @@
 
 #### Consolidate by Reference
 - Use to consolidate data when rows or columns are labelled but not in the same order across workooks
+
+#### Worksheet activation
+- If you have many Worksheets in your Workbook, it can be difficult to move between them to find the one you are looking for. You can use the Activate dialog to move directly to a sheet. Right-click on the arrows next to the Worksheet tabs and you will see the Activate dialog. Select the Worksheet to move to and click OK.
+
