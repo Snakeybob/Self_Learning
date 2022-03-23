@@ -4,6 +4,9 @@
 
 ### Week 1
 
+#### Toggle between Workbooks
+- CTRL + Tab / CTRL + F6
+
 #### New File/ New Workbook
 - CTRL+N | CMD+N
 
