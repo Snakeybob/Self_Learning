@@ -106,7 +106,7 @@
 
 #### Change chart style & theme to be consistent or for better presentation
 -----------
-
+<br/>
 
 ## Course 2 - Excel Skills for Business: Intermediate I
 
