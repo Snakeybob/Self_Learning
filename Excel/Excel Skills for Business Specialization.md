@@ -24,6 +24,7 @@
 
 #### Quick Access Toolbar
 - Can be customised by adding preferred features
+<br />
 
 ### Week 2 
 #### Cycle through all 4 types of cell references. (Absolute, Mixed x2, Relative)
