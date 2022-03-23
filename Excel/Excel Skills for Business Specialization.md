@@ -3,14 +3,14 @@
 ## Course 1 - Excel Skills for Business: Essentials
 
 ### Week 1
-CTRL+N | CMD+N
-- New File/ New Workbook
+#### New File/ New Workbook
+- CTRL+N | CMD+N
 
-CTRL+O | CMD+O
-- Open file / Open Workbook
+####Open file / Open Workbook
+- CTRL+O | CMD+O
 
-CTRL+W | CMD+W
-- Close file / Close Workbook
+#### Close file / Close Workbook
+- CTRL+W | CMD+W
 
 ALT + Enter
 - Enter a new line of Text
