@@ -264,14 +264,45 @@ Named Ranges and Tables have some overlap in functionality and use, but there ar
 | Do not have formatting tools| Can be easily formatted|
 | Named Ranges do not know about other Named Ranges — they do not work together| Provide a range of sorting and filtering tools that work with the Table as a whole unit|
 
-#### 
+#### Creating and Formatting Tables
+- Table Name
+- Highlight First Column, Last Column
+- Total Row
+- Banded Row
+- Banded Column
+- Filter Button
+- Remove Duplicates
+- Converting to Range
 
-#### 
+#### Subtotaling
+Create subtotals for each selected group and create outline for different level of grouping. Only works with ranges, not tables. 
 
-#### 
+### Week 6
+#### Format empty cells in a pivot table 
+You can format empty cells in a pivot table by right-clicking on any cell in the table, then go to Pivot Table Options. In Layout & Format, under Format, you can choose to put a hyphen for every empty cell. A hyphen is one reasonable example of something you could add, you can add something else more appealing for yourself.
 
-#### 
+#### Pivot Tables
+- Pivot table name
+- Rows/Columns for text fields
+- Value field
+- Summarise values by
+- Show values as
+- Group fields
+- Sort
+- Filter by column or row labels
 
+#### Show Reporting Filter Pages
+Create worksheets for filtered labels
+
+#### Inspect Data in Pivot Tables
+Double click the value you want to inpect would create a snapshot worksheet with all the values that used to create that value
+
+#### Pivoting Charts
+- Switch Row / Column
+- Show/hide filter buttons
+
+#### Pivoting Slicers
+Report Connections - connect to different pivot charts and pivot tables
 
 
 
