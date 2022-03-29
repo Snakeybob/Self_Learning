@@ -111,6 +111,8 @@
 ## Course 2 - Excel Skills for Business: Intermediate I
 
 ### Week 1
+#### 3D formulas
+
 #### Group sheets for universal changes
 - Hold Shift and click sheets
 - Calculations across sheets of the same format using functions
@@ -133,3 +135,29 @@
 #### Worksheet activation
 - If you have many Worksheets in your Workbook, it can be difficult to move between them to find the one you are looking for. You can use the Activate dialog to move directly to a sheet. Right-click on the arrows next to the Worksheet tabs and you will see the Activate dialog. Select the Worksheet to move to and click OK.
 
+### Week 2
+#### Automatically insert the comma between each cell reference when using a function
+The CTRL (CMD) key  When you are using a function like CONCAT to join text from multiple cells, hold down the CTRL key while selecting the cells and Excel will automatically insert the comma between each cell reference for you.
+
+#### Inserts today’s date as a fixed value
+CTRL + ; (Note that this is different to the =TODAY() function because this date is fixed and will not change when you come back to your workbook tomorrow or next week.)
+
+#### Inserts the current time as a fixed value
+CTRL + SHIFT + ;| CMD + ; (Note that this is different to the =NOW() function because the time is fixed and will not change when you come back to your workbook an hour or a month later).
+
+#### Nested Functions
+We can also have a function inside another function, where a function is used as an argument, such as: =MID(A2,2,FIND(" ",A2))
+
+#### Text to Columns
+To split the text into columns. A great tool for one-off changes, and when you do not need to retain the original raw data
+
+#### TEXTJOIN
+TEXTJOIN is another function that can be used to join text together, this works well because of the following:
+- You can specify once that you want a space between each word and don’t have to include a space each time like we did in CONCAT
+- You now have the choice to ignore empty cells in a range.
+
+#### Inserting a line break within text functions
+- You can enter a line break inside a cell using the shortcut ALT + ENTER. However this shortcut will not work when you want to include a line break inside a text function
+- We can insert a line break using the function CHAR(10), so cell C2 could be entered as either of the following functions:
+=A2&CHAR(10)&B2
+=CONCAT(A2,CHAR(10),B2)
