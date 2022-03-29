@@ -166,22 +166,22 @@ TEXTJOIN is another function that can be used to join text together, this works 
 - =A1&B1&"C"
 
 #### Changing Text Case
-- =UPPER(), for all upper case
-- =LOWER(), for all lower case
-- =PROPER(), for first letter to be capital and the rest lower case
+- =UPPER() - for all upper case
+- =LOWER() - for all lower case
+- =PROPER() - for first letter to be capital and the rest lower case
 
 #### Extracting Text
-- =LEFT(), extracts text from the left
-- =MID(), extracts text from the middle, starting from certain number from the left
-- =RIGHT(), extracts text from the right
+- =LEFT() - extracts text from the left
+- =MID() - extracts text from the middle, starting from certain number from the left
+- =RIGHT() - extracts text from the right
 
 #### Finding Text
 =FIND()
 
 #### Date Calculations
-- =NOW(),  returns the current date and time
-- =TODAY(), returns the current date
-- =YEARFRAC(), calculates the fraction of the year represented by the number of whole days between two dates
+- =NOW() -  returns the current date and time
+- =TODAY() - returns the current date
+- =YEARFRAC() - calculates the fraction of the year represented by the number of whole days between two dates
 
 ### Week 3
 #### Finish Editing and stay in the cell
@@ -189,5 +189,86 @@ Ctrl+Enter
 
 #### Paste Name
 F3 - When you are writing a formula, if you cannot remember the Named Range that you are trying to use, the Paste Name dialog can help by displaying a list of all the names defined in the workbook.
+
+#### Name Manager
+Ctrl+F3 (Windows only) - You can use the Name Manager to create, modify and delete Named Ranges
+
+#### Create Names from Selection
+Ctrl+Shift+F3. Mac: Cmd+Shift+fn+F3
+
+#### Select to the edges of the data
+Ctrl+Shift+Arrows
+
+#### See all the named ranges you have created in your table
+Simply zoom out to less than 40%
+
+#### Named Ranges
+A way to give a memorable name to a single cell or range of cells. You can then use this Named Range in formulas where it functions like an absolute cell reference. It can also make your formulas more readable because the name has more meaning than a cell reference
+
+#### Apply Names
+replace cell references in formulas with defined names
+- Use it with Implicit intersection operator: @
+
+### Week 4
+#### Duplicate a chart
+Ctrl+D
+
+#### Increase the font size of a chart element
+Ctrl+Shift+> (This only works on Windows)
+
+#### COUNT functions
+- =COUNT() - only counts cells containing numbers
+- =COUNTA() - counts the number of non-blank cells (not empty) in a cell range or the cell reference
+- =COUNTBLANK() - count the number of empty cells in a given range of cells
+- =COUNTIFS() - counting with Criteria
+
+#### Adding with Criteria
+=SUMIFS()
+
+#### Sparklines
+A very small line chart, typically drawn without axes or coordinates. Use sparklines to show trends in a series of values, such as:
+- seasonal increases or decreases
+- economic cycles
+- to highlight maximum and minimum values
+
+#### Advanced Charting
+- Switch Row / Column
+- Combo chart for more than one chart type in the same chart for different data series
+- Secondary axis
+- Change bound maximum and minimum value - affects chart scale
+- Trendlines (Exponential, linear, logarithmic, Polynomial, Power, Moving Average) - forward/backward forcast
+- Display R-squared value on chart
+
+### Week 5
+#### Insert Table
+Ctrl+T (Cmd+T or Ctrl+T) 
+
+#### Select table row
+Shift+Space (Shift+Space)
+
+#### Select table column
+Ctrl+Space (Ctrl+Space)
+
+#### Select table
+Ctrl+A (Cmd+A)
+
+#### Move between the corners of a table
+Ctrl+.
+
+#### Named Ranges and Tables
+Named Ranges and Tables have some overlap in functionality and use, but there are some key differences.
+| Named Ranges | Tables |
+|--------------|--------|
+| Do not automatically extend at the edges of their range| Automatically extend to include rows and columns added|
+
+#### 
+
+#### 
+
+#### 
+
+#### 
+
+
 
 
