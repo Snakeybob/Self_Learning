@@ -4,26 +4,13 @@
 
 ### Week 1
 
-#### Toggle between Workbooks
-- CTRL + Tab / CTRL + F6
-
-#### New File/ New Workbook
-- CTRL+N | CMD+N
-
-#### Open file / Open Workbook
-- CTRL+O | CMD+O
-
-#### Close file / Close Workbook
-- CTRL+W | CMD+W
-
-#### Enter a new line of Text
-- ALT + Enter
-
-#### Takes you to the first cell that contains data in the top-left corner of the sheet
-- CTRL+Home 
-
-#### Goes to the last cell in the bottom-right
-- CTRL+End
+| Toggle between Workbooks                                                          | CTRL + Tab / CTRL + F6 |
+| New File/ New Workbook                                                            | CTRL+N | CMD+N         |
+| Open file / Open Workbook                                                         | CTRL+O | CMD+O         |
+| Close file / Close Workbook                                                       | CTRL+W | CMD+W         |
+| Enter a new line of Text                                                          | ALT + Enter            |
+|Takes you to the first cell that contains data in the top-left corner of the sheet | CTRL+Home              |
+| Goes to the last cell in the bottom-right                                         | CTRL+End               |
 
 #### Quick Access Toolbar
 - Can be customised by adding preferred features
