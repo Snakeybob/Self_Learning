@@ -3,7 +3,8 @@
 ## Course 1 - Excel Skills for Business: Essentials
 
 ### Week 1
-
+| Task                                                                              | Hotkey                 |
+|-----------------------------------------------------------------------------------|------------------------|
 | Toggle between Workbooks                                                          | CTRL + Tab / CTRL + F6 |
 | New File/ New Workbook                                                            | CTRL+N | CMD+N         |
 | Open file / Open Workbook                                                         | CTRL+O | CMD+O         |
