@@ -260,6 +260,9 @@ Named Ranges and Tables have some overlap in functionality and use, but there ar
 | Named Ranges | Tables |
 |--------------|--------|
 | Do not automatically extend at the edges of their range| Automatically extend to include rows and columns added|
+| Behaves like an absolute reference when used in a formula — when you copy the formula to another column the reference to the Named Range will remain the same| Structured References behave like a relative reference when used in a formula — when you copy the formula to another column the Structured Reference will change|
+| Do not have formatting tools| Can be easily formatted|
+| Named Ranges do not know about other Named Ranges — they do not work together| Provide a range of sorting and filtering tools that work with the Table as a whole unit|
 
 #### 
 
