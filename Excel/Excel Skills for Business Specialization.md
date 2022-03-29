@@ -159,5 +159,35 @@ TEXTJOIN is another function that can be used to join text together, this works 
 #### Inserting a line break within text functions
 - You can enter a line break inside a cell using the shortcut ALT + ENTER. However this shortcut will not work when you want to include a line break inside a text function
 - We can insert a line break using the function CHAR(10), so cell C2 could be entered as either of the following functions:
-=A2&CHAR(10)&B2
-=CONCAT(A2,CHAR(10),B2)
+=A2&CHAR(10)&B2, =CONCAT(A2,CHAR(10),B2)
+
+#### Combining Text
+- =CONCAT(), 
+- =A1&B1&"C"
+
+#### Changing Text Case
+- =UPPER(), for all upper case
+- =LOWER(), for all lower case
+- =PROPER(), for first letter to be capital and the rest lower case
+
+#### Extracting Text
+- =LEFT(), extracts text from the left
+- =MID(), extracts text from the middle, starting from certain number from the left
+- =RIGHT(), extracts text from the right
+
+#### Finding Text
+=FIND()
+
+#### Date Calculations
+- =NOW(),  returns the current date and time
+- =TODAY(), returns the current date
+- =YEARFRAC(), calculates the fraction of the year represented by the number of whole days between two dates
+
+### Week 3
+#### Finish Editing and stay in the cell
+Ctrl+Enter 
+
+#### Paste Name
+F3 - When you are writing a formula, if you cannot remember the Named Range that you are trying to use, the Paste Name dialog can help by displaying a list of all the names defined in the workbook.
+
+
