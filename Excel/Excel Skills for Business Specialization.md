@@ -3,6 +3,7 @@
 ## Course 1 - Excel Skills for Business: Essentials
 
 ### Week 1
+
 | Task                                                                              | Hotkey                 |
 |-----------------------------------------------------------------------------------|------------------------|
 | Toggle between Workbooks                                                          | CTRL + Tab / CTRL + F6 |
@@ -18,17 +19,15 @@
 <br />
 
 ### Week 2 
-#### Cycle through all 4 types of cell references. (Absolute, Mixed x2, Relative)
-- F4 (fn + F4 / CMD + T)  
-
-#### Go to the previous sheet.
-- CTRL + PgUp (CMD + PgUp) 
-
-#### Go to the next sheet.
-- CTRL + PgDn (CMD + PgDn)  
+| Task                                                                              | Hotkey                   |
+|-----------------------------------------------------------------------------------|--------------------------|
+| Cycle through all 4 types of cell references. (Absolute, Mixed x2, Relative)      | F4 (fn + F4 / CMD + T)   |
+| Go to the previous sheet                                                          | CTRL + PgUp (CMD + PgUp) |
+| Go to the next sheet                                                              | CTRL + PgDn (CMD + PgDn) |
 <br />
 
 ### Week 3
+
 #### Styles and Themes
 - For consistent format
 
@@ -37,6 +36,7 @@
 <br />
 
 ### Week 4
+
 #### Filtering
 - Filter number with different rules; Filter by colour; Multiple conditions
 
@@ -46,20 +46,13 @@
 #### Conditional Formatting
 - A variety of rules and conditions to choose from
 
-#### Hide the column containing the selected cell
-- CTRL + 0 (CMD + 0)
-
-#### Hide the row containing the selected cell
-- CTRL + 9 (CMD + 9)
-
-#### Unhide the column containing the selected cell. (Select cells surrounding hidden column)
-- CTRL + SHIFT + 0 (CMD + SHIFT + 0)
-
-#### Unhide the row containing the selected cell. (Select cells surrounding hidden row)
-- CTRL + SHIFT + 9 (CMD + SHIFT + 9)
-
-#### Add or remove a filter
-- CTRL + SHIFT + L (CMD + SHIFT + F) 
+| Task                                                                                     | Hotkey                             |
+|------------------------------------------------------------------------------------------|------------------------------------|
+| Hide the column containing the selected cell                                             | CTRL + 0 (CMD + 0)                 |
+| Hide the row containing the selected cell                                                | CTRL + 9 (CMD + 9)                 |
+| Unhide the column containing the selected cell. (Select cells surrounding hidden column) | CTRL + SHIFT + 0 (CMD + SHIFT + 0) |
+| Unhide the row containing the selected cell. (Select cells surrounding hidden row)       | CTRL + SHIFT + 9 (CMD + SHIFT + 9) |
+| Add or remove a filter                                                                   | CTRL + SHIFT + L (CMD + SHIFT + F) |
 <br />
 
 ### Week 5
@@ -81,16 +74,17 @@
 #### Headers and Footers
 - To include page number, total page number, date & time, file name, worksheet name, file path, picture
 
-#### Open Print dialogue
-- CTRL + P | CMD + P
-
-#### For selecting non adjacent cells
-- Shift + F8
+| Task                                                                              | Hotkey                 |
+|-----------------------------------------------------------------------------------|------------------------|
+| Open Print dialogue                                                               | CTRL + P | CMD + P     |
+| For selecting non adjacent cells                                                  | Shift + F8             |
 <br />
 
 ### Week 6 
-#### Insert new Chart sheet from selection.
-- F11 (F11*)
+
+| Task                                                                              | Hotkey                 |
+|-----------------------------------------------------------------------------------|------------------------|
+| Insert new Chart sheet from selection                                             | F11 (F11*)             |
 
 #### Change chart style & theme to be consistent or for better presentation
 -----------
